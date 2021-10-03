@@ -4,6 +4,7 @@
 
 body {
     font-family: "Hiragino Kaku Gothic ProN";
+    background-color: #F4F9FF;
 }
 
 li {
@@ -29,4 +30,17 @@ p,
 div {
     margin: 0;
     padding: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin: 55px 0 10px 0;
+    font-size: 22px;
+    a {
+        color: #000000;
+    }
 }
