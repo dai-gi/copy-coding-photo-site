@@ -38,12 +38,12 @@ div {
   margin: 0 auto;
 }
 
-.logo {
+header {
   margin: 55px 0 10px 0;
-  font-size: 22px;
 }
 
 .logo a {
+  font-size: 22px;
   color: #000000;
 }
 /*# sourceMappingURL=stylesheet.css.map */
