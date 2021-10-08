@@ -10,3 +10,21 @@ header {
 .logo {
     width: 160px;
 }
+
+.index-wrapper {
+    padding: 35px 0 10px 200px;
+    margin: 65px 0;
+    background-color: #ffffff;
+}
+
+.heading {
+    margin-bottom: 15px;
+}
+
+.index-list {
+    margin-left: 3px;
+    li {
+        padding-bottom: 25px;
+        font-size: 14px;
+    }
+}
