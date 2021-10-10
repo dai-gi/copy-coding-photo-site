@@ -27,6 +27,50 @@ header {
 
 .index-list li {
   padding-bottom: 25px;
-  font-size: 14px;
+}
+
+.detail-wrapper {
+  padding: 35px 0 10px 200px;
+  margin: 65px 0;
+}
+
+.work {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.work-img {
+  width: 33%;
+}
+
+.work-contents {
+  width: 35%;
+  margin-left: 70px;
+}
+
+.work-title {
+  margin: 3px 0 20px 0;
+}
+
+.work-detail {
+  margin-bottom: 20px;
+  padding: 17px 0;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+
+.work-detail p {
+  line-height: 22px;
+}
+
+.work-detail p span {
+  margin-right: 38px;
+  float: right;
+}
+
+.work-txt-contents p {
+  margin-bottom: 20px;
+  line-height: 22px;
 }
 /*# sourceMappingURL=stylesheet.css.map */

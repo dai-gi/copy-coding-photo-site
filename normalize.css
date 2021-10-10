@@ -394,10 +394,6 @@ li {
   list-style-position: inside;
 }
 
-a {
-  text-decoration: none;
-}
-
 html,
 body,
 ul,
@@ -413,4 +409,14 @@ p,
 div {
   margin: 0;
   padding: 0;
+}
+
+a,
+ul,
+ol,
+li,
+p {
+  color: #4d4d4d;
+  font-size: 14.5px;
+  font-weight: 100;
 }

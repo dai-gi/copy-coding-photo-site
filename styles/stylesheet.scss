@@ -3,6 +3,7 @@
     margin: 0 auto;
 }
 
+// header
 header {
     margin: 55px 0 10px 0;
 }
@@ -11,6 +12,7 @@ header {
     width: 160px;
 }
 
+// index section
 .index-wrapper {
     padding: 35px 0 10px 200px;
     margin: 65px 0;
@@ -25,6 +27,49 @@ header {
     margin-left: 3px;
     li {
         padding-bottom: 25px;
-        font-size: 14px;
+    }
+}
+
+// detail section
+.detail-wrapper {
+    padding: 35px 0 10px 200px;
+    margin: 65px 0;
+}
+
+.work {
+    display: flex;
+}
+
+.work-img {
+    width: 33%;
+}
+
+.work-contents {
+    width: 35%;
+    margin-left: 70px;
+}
+
+.work-title {
+    margin: 3px 0 20px 0;
+}
+
+.work-detail {
+    margin-bottom: 20px;
+    padding: 17px 0;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    p {
+        line-height: 22px;
+        span {
+            margin-right: 38px;
+            float: right;
+        }
+    }
+}
+
+.work-txt-contents {
+    p {
+        margin-bottom: 20px;
+        line-height: 22px;
     }
 }
