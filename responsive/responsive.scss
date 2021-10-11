@@ -1,10 +1,16 @@
 @media (max-width: 1024px) {
-    // top-wrapper
+    // header
     header {
         padding: 0 10px;
     }
 
+    // top-wrapper
     .top-wrapper {
         padding: 0 10px;
+    }
+
+    // index-wrapper
+    .index-wrapper {
+        padding-right: 0;
     }
 }

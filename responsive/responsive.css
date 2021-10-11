@@ -5,5 +5,8 @@
   .top-wrapper {
     padding: 0 10px;
   }
+  .index-wrapper {
+    padding-right: 0;
+  }
 }
 /*# sourceMappingURL=responsive.css.map */
