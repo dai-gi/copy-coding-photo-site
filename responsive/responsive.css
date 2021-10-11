@@ -1,0 +1,9 @@
+@media (max-width: 1024px) {
+  header {
+    padding: 0 10px;
+  }
+  .top-wrapper {
+    padding: 0 10px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

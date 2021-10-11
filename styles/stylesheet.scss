@@ -12,7 +12,14 @@ header {
     width: 160px;
 }
 
-// index section
+// top-wrapper
+.top-img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+// index-wrapper
 .index-wrapper {
     padding: 35px 0 10px 200px;
     margin: 65px 0;
@@ -30,7 +37,7 @@ header {
     }
 }
 
-// detail section
+// detail-wrapper
 .detail-wrapper {
     padding: 35px 0 10px 200px;
     margin: 65px 0;
